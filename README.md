@@ -2,5 +2,4 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning REACT/NODE JS/PYTHON/SWIFT
 - 📫 How to reach me: I don't know felluhhhh.
-- 😄 Pronouns: Heli/copter
 
